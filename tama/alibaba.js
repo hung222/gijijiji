@@ -1,0 +1,1 @@
+CONSOLE.LOG("alibababababab cái quần mada rách ra làm 3")
